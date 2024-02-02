@@ -1,0 +1,121 @@
+# Archivos temporales creados por macOS
+.DS_Store
+
+# Carpetas específicas de macOS
+.AppleDouble
+.LSOverride
+
+# Carpetas que almacenan archivos de caché
+__pycache__/
+node_modules/
+
+# Logs y archivos temporales
+*.log
+*.log.*
+*.swp
+._*
+*~
+
+# Archivos de configuración locales
+.idea/
+.vscode/
+
+# Carpetas específicas de IDE
+*.sublime-project
+*.sublime-workspace
+
+# Archivos de historial y estado de la aplicación
+.history/
+
+# Archivos de compilación
+dist/
+build/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ambientes virtuales de Python
+venv/
+env/
+
+# Archivos de dependencias
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Carpeta de almacenamiento de caché de pytest
+__pycache__/
+.pytest_cache/
+
+# Archivos de configuración para herramientas específicas
+*.komodoproject
+.komodotools/
+komodo-ide/
+.kate-swp/
+
+# Carpetas de compilación de Xcode
+*.build/
+*.xcodeproj/
+
+# Archivos de configuración de macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Carpetas específicas de macOS
+.iconset/
+.TemporaryItems/
+.Trashes/
+
+# Archivos de configuración de textmate
+*.tmproj
+*.tmproject
+.tmtags
+
+# Carpetas específicas de textmate
+mt-trash/
+mt-revisions/
+
+# Carpetas generadas por el sistema operativo
+Desktop.ini
+Thumbs.db
+$RECYCLE.BIN/
+ehthumbs.db
+
+# Carpetas de almacenamiento de caché de Windows
+AppData/
+/AppDataLocal/
+/AppDataRoaming/
+SynchronisedAppData/
+
+# Acceso directo del sistema operativo a los archivos
+ehthumbs.db
+Desktop.ini
+
+# Carpetas específicas de Windows
+.vscode/
+Thumbs.db
+.sass-cache/
+.DS_Store?
+.DS_Store?
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Carpetas específicas de Visual Studio Code
+.vscode/
+
+# Carpetas de almacenamiento de caché de Windows
+.vscode-test/
+/.history/
+node_modules/
+.cache/
+logs/
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.pnp.js
+.pnp.js.map
+.env*
